@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WaveChat</string>
+    <string name="app_url">https://nnoxtgram.mooo.com</string>
+    <string name="fallback_url">http://144.31.244.143</string>
+</resources>
